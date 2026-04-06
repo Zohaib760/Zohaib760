@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zohaib 
-- 👀 I’m interested in Mobile Application Development
+- 👀 I’m interested in Mobile and Web Application Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me zohaibjadoon14@gmail.com
